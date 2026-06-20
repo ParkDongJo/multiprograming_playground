@@ -1,0 +1,1 @@
+https://github.com/marpple/multi-paradigm-programming/blob/main/book/ko/1.0-%EB%A9%80%ED%8B%B0%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%EC%9D%B4-%ED%98%84%EB%8C%80-%EC%96%B8%EC%96%B4%EB%A5%BC-%ED%99%95%EC%9E%A5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95.md

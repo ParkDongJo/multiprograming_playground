@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 90" role="img" aria-label="React Router">
+  <rect width="360" height="90" rx="16" fill="#111827"/>
+  <circle cx="54" cy="45" r="22" fill="#f44250"/>
+  <path d="M82 45h54" stroke="#f8fafc" stroke-width="10" stroke-linecap="round"/>
+  <path d="M153 45h54" stroke="#f8fafc" stroke-width="10" stroke-linecap="round" stroke-dasharray="16 16"/>
+  <text x="226" y="55" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#f8fafc">React Router</text>
+</svg>

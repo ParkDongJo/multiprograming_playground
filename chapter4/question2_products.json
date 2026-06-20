@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Apple",
+    "price": 10,
+    "category": "fruit"
+  },
+  {
+    "name": "Banana",
+    "price": 0.8,
+    "category": "fruit"
+  },
+  {
+    "name": "Carrot",
+    "price": 0.5,
+    "category": "vegetable"
+  },
+  {
+    "name": "Eggplant",
+    "price": 1.2,
+    "category": "vegetable"
+  },
+  {
+    "name": "Eggplant",
+    "price": 1.2,
+    "category": "vegetable"
+  },
+  {
+    "name": "ApplePie",
+    "price": 2,
+    "category": "dessert"
+  },
+  {
+    "name": "Donut",
+    "price": 1.5,
+    "category": "dessert"
+  }
+]
